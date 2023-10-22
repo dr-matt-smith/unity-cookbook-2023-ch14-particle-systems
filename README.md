@@ -1,7 +1,7 @@
-# unity-cookbook-2023-ch14-particle-systems
+# unity-cookbook-2023-ch15-particle-systems
 
 
-## Chapter 14: Particle Systems
+## Chapter 15: Particle Systems
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch14-01-unity-particle-pack
